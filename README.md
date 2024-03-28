@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Chandani</h1>
-<h3 align="center">Greetings, and welcome to my digital domain! I am a Python developer with a strong passion for open-source projects, machine learning, and computer vision. My expertise lies in React.js for frontend development, TensorFlow for building ML models such as image classification, and Firebase for full-stack development. Let's collaborate to craft meaningful and impactful solutions!</h3>
+<h1 align="center">I'm Chandani</h1>
+<h3 align="center">Python developer | ML enthusiast | Novice in ReactJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandani122&label=Profile%20views&color=0e75b6&style=flat" alt="chandani122" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandani122&theme=dracula" alt="chandani122" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS and GANs.**
-
-- 📫 How to reach me **pcchandani122@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
